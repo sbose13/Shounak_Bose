@@ -1,6 +1,3 @@
-# Shounak_Bose
-github profile
-
 👋 Hi, I’m @shounak-bose
 
 👀 I’m interested in Web Development
